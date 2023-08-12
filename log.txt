@@ -3,3 +3,4 @@ Update documentation [9K6YfC] line 3.1
 Add feature for X [UJCpQr] line 4.3
 Add test case for W [Jvkdne] line 10.1
 Update documentation [YGM3cq] line 11.1
+Fix issue in Y [mUDGqB] line 15.2
